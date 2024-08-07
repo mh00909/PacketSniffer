@@ -1,0 +1,3 @@
+/home/monika/c/packetsniffer/cmake-build-debug/CMakeFiles/packetsniffer.dir
+/home/monika/c/packetsniffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/monika/c/packetsniffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
